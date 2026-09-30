@@ -1,0 +1,305 @@
+{
+  "vector_store_id": "vs_6abc1ce6823881919217cc313f8d48aa",
+  "items": {
+    "360059386254": {
+      "hash": "7891b017d21a51e99f7e7f852553c118c37ecb79732895249ef516911f49fac2",
+      "file_id": "file-ADHcj8JqhkdgREEdR4KL6b",
+      "name": "360059386254-How-to-Use-the-YouTube-Playlist-App-with-OptiSigns.md",
+      "updated": "2026-09-14T18:47:59Z"
+    },
+    "360060284174": {
+      "hash": "a6a05de7b23724810e7830ec72116cb70d98af43333472c99747085bcbe39b82",
+      "file_id": "file-UTQrdNMJEkq8bVHWtFPUvd",
+      "name": "360060284174-How-to-use-YouTube-Live-Schedule-with-OptiSigns.md",
+      "updated": "2026-01-22T15:44:40Z"
+    },
+    "360051014713": {
+      "hash": "32c7cdfcd5114e1eb23731c1deea0e828d8440172710749ba65bda32ffbe2e32",
+      "file_id": "file-PZkqxPbXeevaBv4mUyDrRP",
+      "name": "360051014713-How-to-Use-YouTube-with-OptiSigns.md",
+      "updated": "2026-09-24T14:52:18Z"
+    },
+    "360051014773": {
+      "hash": "10f9333500089ba5bc3968e6cb7ed62833bda72dc4755183cc58eb8f4f9236f2",
+      "file_id": "file-Dw9bkaDVuCgw9GXYtZPb33",
+      "name": "360051014773-Show-YouTube-video-s-subtitle-closed-caption.md",
+      "updated": "2026-09-14T11:03:09Z"
+    },
+    "360060202914": {
+      "hash": "d8ad140ea8b5b5644ea76e8bb98a3f3665ea09c60c5aeb31c8b22d811d300f79",
+      "file_id": "file-QwTXN6nhfhCjNZxQjX9jVP",
+      "name": "360060202914-How-to-use-YouTube-Channel-with-OptiSigns.md",
+      "updated": "2024-02-18T15:00:30Z"
+    },
+    "48626115821459": {
+      "hash": "1e25ae0b4941650cb43fd4772388b9be16401552cf6718e7b0ae381de2bf69bd",
+      "file_id": "file-1n6ugmrEEMoxPJR7kAVt6q",
+      "name": "48626115821459-How-to-Use-the-YouTube-Dashboard-App.md",
+      "updated": "2026-01-29T21:02:00Z"
+    },
+    "1500002131621": {
+      "hash": "00a7a5387153b19af7f431ab1af48fb563014b74e3e4fe71be72dfd145b3a8cf",
+      "file_id": "file-HCLhMLGvPbLZ4SCA4nkS8b",
+      "name": "1500002131621-How-to-use-YouTube-Live-with-OptiSigns.md",
+      "updated": "2024-02-18T15:03:33Z"
+    },
+    "42087942047379": {
+      "hash": "10ff1c7860d50305b7fc3f1e55ba71f9f5a6e8e3122307b879e240a219a3c357",
+      "file_id": "file-QypCdeu38YdeDciRo2r9a2",
+      "name": "42087942047379-Getting-Started-with-Designer.md",
+      "updated": "2025-10-07T17:18:32Z"
+    },
+    "37966066335891": {
+      "hash": "d5215d51822b784ef44c3c9c04f07a790db9ae01eaa355e6999f3c704f0f9c29",
+      "file_id": "file-3AWW63gLnETs65ETAai3f1",
+      "name": "37966066335891-Getting-Started-with-an-OptiSigns-Free-Trial.md",
+      "updated": "2025-03-06T22:44:18Z"
+    },
+    "31449657955347": {
+      "hash": "cd689ac3f574859aa2db423182ca7ede083e2e58fcd8311d5c7a7b6850f95d73",
+      "file_id": "file-C2qqMSmYxpSW8qCnzx9xry",
+      "name": "31449657955347-Getting-Started-with-Touch-Screen-Kiosks.md",
+      "updated": "2025-10-29T18:57:43Z"
+    },
+    "18823504383891": {
+      "hash": "13fde4c20b821bb3a9f81fa61609dd81b7aa0cccee2d9b212ab1969f540caec5",
+      "file_id": "file-54fPJW3wpXNZQDc94ZDh1t",
+      "name": "18823504383891-OptiSigns-Getting-Started-Guide.md",
+      "updated": "2026-03-31T21:41:21Z"
+    },
+    "360043670633": {
+      "hash": "c43a8701b32eb4cb327395aff4bad878528b14af70b965f361ba0944b9fd7b93",
+      "file_id": "file-LozaWx2JT5JXgVp2L7DG9e",
+      "name": "360043670633-Organizing-your-files-assets-playlists-and-schedules-by-using-Folders.md",
+      "updated": "2026-09-10T11:03:08Z"
+    },
+    "20062273670163": {
+      "hash": "02102005479ddf4c844b97ea0a8f6315b8871f49924042a564e43c954b5eba29",
+      "file_id": "file-7k69fH5D3NzfaTnkQsYacY",
+      "name": "20062273670163-How-to-Control-and-Schedule-Playlist-Items.md",
+      "updated": "2025-08-19T22:03:23Z"
+    },
+    "4414553099667": {
+      "hash": "1c99bbfdcbfe75d15082b118ee29a08267d0b6f861b0c383ef9d8a8d72bbb5da",
+      "file_id": "file-RS1rbXnqYdamL9EHiRtPcE",
+      "name": "4414553099667-GraphQL-API-Tutorial-Pair-and-Assign-Content-to-Screen.md",
+      "updated": "2025-01-28T15:49:39Z"
+    },
+    "360058700673": {
+      "hash": "8cae49c38052369acc1336103b21f97f08d40f443400b4e58ccb065e1ff3bc06",
+      "file_id": "file-XAD7RxYhsBLdhi5JhjQ4wg",
+      "name": "360058700673-How-to-unpair-a-device-screen.md",
+      "updated": "2020-11-04T19:29:48Z"
+    },
+    "28295074995859": {
+      "hash": "98d45b803bcfb50b041f9ba005622a2e4004dca2c3ca0e5e9518a86b5ead8d6a",
+      "file_id": "file-PDvq5FTNnddUGUd3KbDB44",
+      "name": "28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings.md",
+      "updated": "2026-09-14T16:01:05Z"
+    },
+    "20879903340947": {
+      "hash": "e4069aa5306baab865fc46629198d563806fadda4da1f46f9e74ac3b8270260c",
+      "file_id": "file-5WAgLMNFQbTKFqWhmpLayU",
+      "name": "20879903340947-How-to-Use-Content-Tags-in-The-Playlist.md",
+      "updated": "2026-09-11T11:20:04Z"
+    },
+    "21708242980755": {
+      "hash": "4fa80bf8ae020f7e5d95ab7161f5b721a80b7401f0355e840058f5b022c92462",
+      "file_id": "file-T9yVgzvHQ7scjoTqu9EYzr",
+      "name": "21708242980755-Sharing-Playlists-and-Folders-with-External-Users.md",
+      "updated": "2026-09-11T17:02:25Z"
+    },
+    "4414558295955": {
+      "hash": "3ffc464a3a3caa382e722e1db00a8e60d7c7433ebcacf86444ef8f20d9e416a9",
+      "file_id": "file-SKQHTuayTGjiEdqKhCbQtW",
+      "name": "4414558295955-Tutorial-Create-Update-Add-Remove-items-from-Playlists.md",
+      "updated": "2026-09-11T09:56:42Z"
+    },
+    "360043621953": {
+      "hash": "e9f3a1e1aef3ff57677a5f3dc59feff692b7d66e777185f3df3bfd12a27ed4b8",
+      "file_id": "file-CsZun2M4CNKmKQNUR7egcq",
+      "name": "360043621953-How-to-Create-and-Use-Nested-Playlists.md",
+      "updated": "2026-09-08T19:09:14Z"
+    },
+    "28295104605843": {
+      "hash": "46e4e199cb79ff49727b065448682badbad57b78e771f29232d360c596ccfd16",
+      "file_id": "file-UQ8T8pxv4sG5aTwWVbMqKh",
+      "name": "28295104605843-How-to-Create-Use-Playlists.md",
+      "updated": "2026-03-31T21:42:15Z"
+    },
+    "22474034993043": {
+      "hash": "846179dbab7ab7fd8f1da5f49a44fa69eec7c406ec9812ecc1c15deeaa36fbba",
+      "file_id": "file-4RC76XeycsQWkzr59cFK2N",
+      "name": "22474034993043-Advanced-Playlist-Item-Playback-Control-Campaign-Management.md",
+      "updated": "2025-10-10T15:42:34Z"
+    },
+    "4472060158355": {
+      "hash": "f41ed90c2a7234d3988871667c333f362c1e9753b8e72973967f0f83721215c5",
+      "file_id": "file-XoWFt42YrN9RA4hExX8XfE",
+      "name": "4472060158355-How-to-get-the-list-of-playlists-where-the-asset-is-used.md",
+      "updated": "2026-08-31T16:30:59Z"
+    },
+    "1500001561861": {
+      "hash": "c60c9df75e8cc7411818b94e75e6f2684a5145eae7c6e87b4daf1503ba6d462e",
+      "file_id": "file-94muPS2YSWbAbABeimaxjt",
+      "name": "1500001561861-How-to-mix-playlists-and-maintain-screen-time-share-with-OptiSigns-Content-Rotation-App.md",
+      "updated": "2024-07-24T06:47:52Z"
+    },
+    "4404616139411": {
+      "hash": "b8797e97c97442b693c41d49f792052f2643d0ef8d7641292ab16e37a4de3331",
+      "file_id": "file-JoZaiStMmtbeytHxW8pgmd",
+      "name": "4404616139411-Add-1-or-multiple-assets-to-many-playlists-at-the-same-time.md",
+      "updated": "2026-09-10T08:30:21Z"
+    },
+    "4416704273811": {
+      "hash": "11692cee92a851292223a1bfb74a225769e853e57aa6257890b58e7b2910d8cd",
+      "file_id": "file-HJnbYr6HpX9KMXYhiiWoP9",
+      "name": "4416704273811-Manually-control-playlist-playback-with-OptiSigns.md",
+      "updated": "2026-09-08T16:03:34Z"
+    },
+    "55416185869331": {
+      "hash": "6b99d12bfcdd6f66b874b1dad6c739d332fa6dabcf68b0839624c43b59d6ce2b",
+      "file_id": "file-4gs86vMbH5cukxyeoDQSJ8",
+      "name": "55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards.md",
+      "updated": "2026-09-23T16:24:51Z"
+    },
+    "55669121864979": {
+      "hash": "4cd5051bb6ccf34967d46f850d3d4a7ad36f641dbcdb7f9a08bfe079795021d8",
+      "file_id": "file-EMYRtYWusHA1FHL8QSQNv3",
+      "name": "55669121864979-Using-the-Flight-Schedule-App.md",
+      "updated": "2026-09-22T18:59:05Z"
+    },
+    "9061950942995": {
+      "hash": "4a664fa592d16245dda43b1ba8f008580ea87a0925cc3ee08aeda951ef94e3d3",
+      "file_id": "file-YZxNUBPeLX678PKjPnojWn",
+      "name": "9061950942995-Using-RS232-to-Schedule-TV-Power-On-Off-or-other-commands.md",
+      "updated": "2026-09-14T20:13:10Z"
+    },
+    "28598173096723": {
+      "hash": "05a25cbab159dba9158debc5d6fbf2636c336e09d5d29ad8fdb4160bbf63b5f3",
+      "file_id": "file-PMMReEJQ79mrKP4J5XvfQc",
+      "name": "28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232.md",
+      "updated": "2026-09-11T20:59:10Z"
+    },
+    "33468569218067": {
+      "hash": "ecac69fbd43ba50b7745e850e3f2d4824a37658af1de8c9b7a169c84a14591f6",
+      "file_id": "file-QWyAWKj6rr2mGPmyaThm4F",
+      "name": "33468569218067-How-to-Display-Dynamic-Event-Schedules-Using-OptiSync.md",
+      "updated": "2025-07-11T18:20:52Z"
+    },
+    "36558834998291": {
+      "hash": "69d5e37bfe6e7617dc44135bd5c5d8117717a3afe1a08a26ac47b5408be93772",
+      "file_id": "file-4DDhAgh918vMDRHkzRcQQ6",
+      "name": "36558834998291-Tutorial-Creating-Schedules-and-Adding-Schedule-Items-Using-GraphQL.md",
+      "updated": "2025-01-28T15:54:43Z"
+    },
+    "360040943374": {
+      "hash": "d27be383d707ea710e6b2665abf423bfff8bcc0d1350e1b89217768cd3ccd63b",
+      "file_id": "file-WtS9DBx1LR4i5h939oUzUB",
+      "name": "360040943374-Assign-Default-Content-for-Schedules.md",
+      "updated": "2026-05-05T19:18:10Z"
+    },
+    "48241081473043": {
+      "hash": "b45ec79eea6f160377c39b8bdfe7795eac5507cdd153025356158bfe52c184ee",
+      "file_id": "file-DkwdUDPDarq29r9trSxgGf",
+      "name": "48241081473043-Operational-Schedule-Troubleshooting.md",
+      "updated": "2026-04-20T21:26:17Z"
+    },
+    "360016981853": {
+      "hash": "afbec64c298fb156df35753fd3ab1f8788e777af9d9a3b99514690b9037ed538",
+      "file_id": "file-DkbjtHpJjETZ9nJko1ByCR",
+      "name": "360016981853-Creating-and-Using-Schedules-with-OptiSigns.md",
+      "updated": "2026-03-31T22:14:33Z"
+    },
+    "360026559573": {
+      "hash": "fb990912f819d7ee3cbb72084cf535591158c246f9ef4dc7c47370d441ed54da",
+      "file_id": "file-7ju69g1w4NtHzND2kPKWvS",
+      "name": "360026559573-How-to-Create-and-Use-the-Split-Screen-App.md",
+      "updated": "2026-07-09T21:32:57Z"
+    },
+    "360017964153": {
+      "hash": "7442d71aaff33048908aefcbcf41a61c3b202f2175b6f79be863ff7799dbe6ca",
+      "file_id": "file-TfQJxg9ngEyDrHBB61fUH4",
+      "name": "360017964153-How-to-Use-Weather-Apps-in-OptiSigns.md",
+      "updated": "2026-09-29T19:54:34Z"
+    },
+    "55895814798739": {
+      "hash": "36ac02a82263fee7885442bd958c95b15268888aa4eb5056f09548a4311a234b",
+      "file_id": "file-Jq8JDezVnizFp3mU153MwS",
+      "name": "55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns.md",
+      "updated": "2026-09-29T19:44:32Z"
+    },
+    "55906396437523": {
+      "hash": "9eeefcca998f5fbd2420f341297dc8d87c5ea97f27b30a775717d1be16f47221",
+      "file_id": "file-1Kw2CGj1KNjPdnYPZbAg3T",
+      "name": "55906396437523-How-to-Use-the-Weather-Radar-App.md",
+      "updated": "2026-09-29T19:04:56Z"
+    },
+    "360016252654": {
+      "hash": "254edfbe4715bb33c5bbb111d1f5284fb2ca28824989cafac4dcfae11a592066",
+      "file_id": "file-ERZZMh2Gsn1so15MYEcfid",
+      "name": "360016252654-Does-OptiSigns-offer-Non-profit-Education-discount.md",
+      "updated": "2026-09-29T17:04:04Z"
+    },
+    "44650391786131": {
+      "hash": "c06d1bbe17cad7ea2db8779b0c73b3adeb315df67ce726edcf3fd60917fa2eb6",
+      "file_id": "file-FsVqcvTdGBE9apZE4Zc2g4",
+      "name": "44650391786131-Kiosk-Setup-Hub.md",
+      "updated": "2026-09-29T12:49:59Z"
+    },
+    "23566927217939": {
+      "hash": "c4f5ea233c1090e2021256d475db19a2b5ee7271010ec1b727426c89782cd8cd",
+      "file_id": "file-V4sXZnnoC8y6urUVeN185g",
+      "name": "23566927217939-How-to-use-Check-in-app-with-SMS-follow-up.md",
+      "updated": "2024-02-19T02:42:20Z"
+    },
+    "360061576673": {
+      "hash": "9f1d111f6ce328d9941aff86a2dfb5776f95dbb6f58119648255f63eeff6ebda",
+      "file_id": "file-Qdx6askd6z9YEeCK5Ryodf",
+      "name": "360061576673-Advanced-Enforce-SSO-login-for-your-account.md",
+      "updated": "2026-09-28T21:53:26Z"
+    },
+    "360024859713": {
+      "hash": "c33be8d4f4910076b4f4375b5219913b6d3be9bc4d5a12bf2aca1c1c9291d280",
+      "file_id": "file-YAPqmWe924mCSfBD4i8nxu",
+      "name": "360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns.md",
+      "updated": "2026-09-28T19:55:59Z"
+    },
+    "32860569148819": {
+      "hash": "ab8692d4b9599fdb1b81039e5887ea1cb2082ea879449ab2c61d87a588d80748",
+      "file_id": "file-SgKVAgxrDptdxfHnTyCa9V",
+      "name": "32860569148819-How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns.md",
+      "updated": "2026-09-28T20:24:07Z"
+    },
+    "1500000493782": {
+      "hash": "5ce79f1280e85f062297726c5f1f49b3abd88809ef29dd471b22d842f2af2504",
+      "file_id": "file-YbEAYwE2pZb1BrFL1kDycA",
+      "name": "1500000493782-Billing-How-Do-I-Change-my-Subscription-Plan.md",
+      "updated": "2024-12-18T07:20:19Z"
+    },
+    "29838866920211": {
+      "hash": "e1f3bb3a2859ee76111626c5655f9ce7a4257cff4fad863c834c093d65c51887",
+      "file_id": "file-B3ogh7F4ycqi7iCgFYCJc1",
+      "name": "29838866920211-How-to-add-Google-Sheets-as-a-DataSource-for-OptiSync.md",
+      "updated": "2025-01-31T23:30:54Z"
+    },
+    "1500010436341": {
+      "hash": "0d740de7f36d6dc751a73c18536f07b1480fced5230280d145bbcd1fc21594d4",
+      "file_id": "file-HhCUfW41TDkBdrzE6bBHHL",
+      "name": "1500010436341-Adjust-the-GPU-memory-on-the-Raspberry-Pi.md",
+      "updated": "2024-07-24T05:00:01Z"
+    },
+    "360034883113": {
+      "hash": "45cb01c7dfee6ff8f37c136e1c2f5ff4ab106a79ca1b37cfdda49c0d8c8198da",
+      "file_id": "file-Nmt6HmfHgbrwpMA3R1ks6E",
+      "name": "360034883113-Working-with-Teams-and-Security-Levels.md",
+      "updated": "2025-06-27T15:19:55Z"
+    },
+    "4408052949139": {
+      "hash": "981064a0169f7ceb74a91024668890161e8c01614969cb333b634fd13c7f5153",
+      "file_id": "file-1YDF6Cwnvqk6M91wrhGb5w",
+      "name": "4408052949139-How-to-Use-the-Calendar-Mix-app.md",
+      "updated": "2026-09-09T15:32:17Z"
+    }
+  }
+}

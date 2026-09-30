@@ -1,0 +1,32 @@
+name: daily
+
+on:
+  schedule:
+    - cron: "23 8 * * *"
+  workflow_dispatch:
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - uses: actions/cache@v4
+        with:
+          path: run_state.json
+          key: vs-state
+      - run: python -u main.py | tee last_run.log
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          VECTOR_STORE_ID: ${{ secrets.VECTOR_STORE_ID }}
+          LIMIT: "50"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: last-run
+          path: last_run.log
+          if-no-files-found: ignore
